@@ -1,0 +1,8 @@
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\obj\Debug\Struct.csproj.AssemblyReference.cache
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\obj\Debug\Struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\Back\Desktop\Repozitory211206\Struct\Struct\obj\Debug\Struct.pdb
